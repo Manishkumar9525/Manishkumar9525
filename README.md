@@ -1,10 +1,10 @@
 <h1 align="center">Hey there 👋, I'm Manish Kumar</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN Stack Learner | Problem Solver</h3>
+<h3 align="center">🚀 Full-Stack Developer | MERN Stack  | Problem Solver</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Learner;DSA+Enthusiast;Always+Building+and+Learning"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack;DSA+Enthusiast;Always+Building+and+Learning"
       alt="Typing SVG"
     />
   </a>
@@ -17,8 +17,8 @@
 - 🔭 Working on **CareerPath AI – Personalized Career Roadmap Generator**  
 - 🌱 Currently learning **Backend Development (Node.js, Express.js)**  
 - 💻 Passionate about **Web Development, DSA, and AI Projects**  
-- 💬 Ask me about: **HTML, CSS, JavaScript, React, Tailwind, C++, Flask, MERN Stack**  
-- 🎯 Goal for 2025: **Build impactful AI-powered web apps & crack top tech interviews**  
+- 💬 Ask me about: **HTML, CSS, JavaScript, React, Tailwind, C++, MERN Stack**  
+- 🎯 Goal for 2026: **Build impactful AI-powered web apps & crack top tech interviews**  
 - 📫 Reach me at: **manish62073kumar@gmail.com**  
 
 ---
@@ -26,7 +26,7 @@
 ## 🛠️ Tech Stack  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,flask,nodejs,express,mongodb,git,github,vscode,c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,vscode,c,cpp," />
 </div>
 
 ---

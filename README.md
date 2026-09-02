@@ -179,6 +179,11 @@ making mistakes, debugging them,
 and improving continuously.
 
 </td> </tr> </table>
+<!-- ========================================================= --> <!-- GITHUB STATS --> <!-- ========================================================= -->
+📊 GITHUB STATISTICS
+<p align="center"> <i>A snapshot of my coding journey 🚀</i> </p> <br>
+🔥 CONTRIBUTION STREAK
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manishkumar9525&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=F97316&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=8B949E"/> </p> <br>
 
 <!-- ========================================================= --> <!-- CONTRIBUTION GRAPH --> <!-- ========================================================= -->
 📈 CONTRIBUTION ACTIVITY

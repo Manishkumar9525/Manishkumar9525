@@ -56,68 +56,419 @@ software development skills.
 <p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> </p>
 🧠 Programming & Tools
 <p> <img src="https://skillicons.dev/icons?i=cpp,python,c,git,github,vscode" /> </p>
-<!-- ===================== PROJECTS ===================== -->
-🚀 Featured Projects
+<!-- ===================== FEATURED PROJECTS ===================== -->
+
+# 🚀 Featured Projects
+
 <div align="center">
-🧠 CareerPath AI
-<img src="https://img.shields.io/badge/AI-Powered-6366F1?style=for-the-badge"/> <img src="https://img.shields.io/badge/MERN-Stack-10B981?style=for-the-badge"/> </div>
 
-CareerPath AI is a personalized career roadmap generator
-designed to help students and professionals understand what
-they should learn for their target career.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Projects+I've+Built+%F0%9F%9A%80;Ideas+%E2%86%92+Code+%E2%86%92+Real-World+Solutions+%E2%9C%A8" />
 
-✨ Highlights
-🤖 AI-generated personalized roadmaps
-🗺️ Step-by-step career learning paths
-📚 Recommended learning resources
-🎯 Career-focused guidance
-⚡ Designed to reduce the time required to plan a learning path
+</div>
 
-Tech Stack
+<br/>
 
-React Node.js Express.js MongoDB OpenAI API
+<!-- ===================== CAREERPATH AI ===================== -->
 
-<div align="center"> <a href="https://github.com/Manishkumar9525/CareerPath-AI"> <img src="https://img.shields.io/badge/VIEW_PROJECT-6366F1?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
+## 🧠 CareerPath AI
+
 <div align="center">
-🏛️ Civix
-<img src="https://img.shields.io/badge/Full--Stack-MERN-10B981?style=for-the-badge"/> <img src="https://img.shields.io/badge/JWT-Authentication-F59E0B?style=for-the-badge"/> </div>
 
-Civix is a civic issue reporting platform designed to
-connect citizens with the appropriate authorities for
-reporting and managing local problems.
+<img src="https://img.shields.io/badge/⭐_Featured_Project-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Powered-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN-Stack-10B981?style=for-the-badge"/>
 
-✨ Highlights
-👤 User authentication
-🔐 JWT-based authorization
-📝 Civic issue reporting
-🖼️ Issue image support
-🗄️ MongoDB data management
-🔄 Backend REST APIs
+</div>
 
-Tech Stack
+<br/>
 
-React Node.js Express.js MongoDB JWT
+> **AI-powered personalized career roadmap generator**
 
-<div align="center"> <a href="https://github.com/Manishkumar9525"> <img src="https://img.shields.io/badge/VIEW_PROJECT-10B981?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
+CareerPath AI helps students and professionals create a
+personalized learning roadmap based on their **career goal,
+current skills, and learning requirements**.
+
+### 🎯 Problem
+
+Many learners struggle with questions like:
+
+- What should I learn first?
+- Which technologies are required for my target role?
+- What should I learn after completing a particular skill?
+- Which resources should I use?
+
+### 💡 Solution
+
+CareerPath AI uses AI to transform a user's career goal into a
+**structured, step-by-step roadmap** with relevant learning
+resources.
+
+### ⚙️ Key Features
+
+| Feature | Description |
+|---|---|
+| 🤖 AI Roadmap | Generates personalized career roadmaps |
+| 🎯 Career Based | Roadmap is based on the user's target career |
+| 📚 Resources | Provides relevant learning resources |
+| 🗺️ Structured Path | Organizes learning into logical stages |
+| ⚡ Fast Planning | Reduces manual career-planning effort |
+| 💻 Interactive UI | Simple and user-friendly interface |
+
+### 🛠️ Tech Stack
+
+`React` `Node.js` `Express.js` `MongoDB` `OpenAI API`
+
+<br/>
+
 <div align="center">
-💧 AquaVeda
-<img src="https://img.shields.io/badge/Sustainability-0EA5E9?style=for-the-badge"/> <img src="https://img.shields.io/badge/Water%20Conservation-06B6D4?style=for-the-badge"/> </div>
 
-AquaVeda is a knowledge-sharing platform focused on
-water conservation, awareness and sustainable solutions.
+<a href="https://github.com/Manishkumar9525/CareerPath-AI">
+<img src="https://img.shields.io/badge/🔗_VIEW_SOURCE_CODE-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-✨ Highlights
-💧 Water conservation awareness
-📚 Knowledge-based content
-🌱 Sustainable solutions
-🔎 Easy access to useful information
-🌍 Focus on environmental awareness
+</div>
 
-Tech Stack
+---
 
-HTML CSS JavaScript
+<!-- ===================== CIVIX ===================== -->
 
-<div align="center"> <a href="https://github.com/Manishkumar9525/Water-Wiki"> <img src="https://img.shields.io/badge/VIEW_PROJECT-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
+## 🏛️ Civix
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Full--Stack_Project-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN-Stack-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-Authentication-F59E0B?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+> **A platform for reporting and managing civic issues**
+
+Civix is a full-stack civic issue reporting platform where
+citizens can report problems in their local area and provide
+information that can help authorities understand and manage
+those issues.
+
+### 🎯 Problem
+
+Citizens often face difficulties when reporting local problems
+such as:
+
+- Road damage
+- Garbage and sanitation issues
+- Public infrastructure problems
+- Other civic complaints
+
+### 💡 Solution
+
+Civix provides a centralized platform where users can **report,
+track and manage civic issues** through a web application.
+
+### ⚙️ Key Features
+
+| Feature | Description |
+|---|---|
+| 👤 Authentication | Secure user registration & login |
+| 🔐 JWT Security | Token-based authentication |
+| 📝 Issue Reporting | Users can submit civic problems |
+| 🖼️ Image Support | Add images to explain issues clearly |
+| 🗄️ MongoDB | Store users and issue data |
+| 🔄 REST APIs | Backend communication through APIs |
+| 🛡️ Protected Routes | Restrict authenticated functionality |
+
+### 🛠️ Tech Stack
+
+`React` `Node.js` `Express.js` `MongoDB` `JWT`
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/Manishkumar9525">
+<img src="https://img.shields.io/badge/🔗_VIEW_SOURCE_CODE-10B981?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<!-- ===================== AQUAVEDA ===================== -->
+
+## 💧 AquaVeda
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Sustainability-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Water_Conservation-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web_Project-6366F1?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+> **Water conservation & sustainability awareness platform**
+
+AquaVeda is a knowledge-focused platform created to spread
+awareness about **water conservation, sustainable practices,
+and responsible water usage**.
+
+### 🎯 Problem
+
+Water conservation is an important environmental challenge,
+but useful information is often scattered across different
+sources.
+
+### 💡 Solution
+
+AquaVeda brings useful information about water conservation and
+sustainable solutions into one accessible platform.
+
+### ⚙️ Key Features
+
+| Feature | Description |
+|---|---|
+| 💧 Water Awareness | Information about water conservation |
+| 📚 Knowledge Hub | Organized educational content |
+| 🌱 Sustainability | Focus on sustainable solutions |
+| 🔎 Easy Navigation | Simple information discovery |
+| 🌍 Environmental Focus | Promotes responsible water usage |
+
+### 🛠️ Tech Stack
+
+`HTML` `CSS` `JavaScript`
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/Manishkumar9525/Water-Wiki">
+<img src="https://img.shields.io/badge/🔗_VIEW_SOURCE_CODE-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<!-- ===================== PROJECT PHILOSOPHY ===================== -->
+
+<div align="center">
+
+### 💭 What I Learn From Building
+
+**Every project is more than code.**
+
+🧠 Learn → 🛠️ Build → 🐛 Debug → 📈 Improve → 🚀 Ship
+
+</div>
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Projects+I've+Built+%F0%9F%9A%80;Ideas+%E2%86%92+Code+%E2%86%92+Real-World+Solutions+%E2%9C%A8" />
+
+</div>
+
+<br/>
+
+<!-- ===================== CAREERPATH AI ===================== -->
+
+## 🧠 CareerPath AI
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/⭐_Featured_Project-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Powered-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN-Stack-10B981?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+> **AI-powered personalized career roadmap generator**
+
+CareerPath AI helps students and professionals create a
+personalized learning roadmap based on their **career goal,
+current skills, and learning requirements**.
+
+### 🎯 Problem
+
+Many learners struggle with questions like:
+
+- What should I learn first?
+- Which technologies are required for my target role?
+- What should I learn after completing a particular skill?
+- Which resources should I use?
+
+### 💡 Solution
+
+CareerPath AI uses AI to transform a user's career goal into a
+**structured, step-by-step roadmap** with relevant learning
+resources.
+
+### ⚙️ Key Features
+
+| Feature | Description |
+|---|---|
+| 🤖 AI Roadmap | Generates personalized career roadmaps |
+| 🎯 Career Based | Roadmap is based on the user's target career |
+| 📚 Resources | Provides relevant learning resources |
+| 🗺️ Structured Path | Organizes learning into logical stages |
+| ⚡ Fast Planning | Reduces manual career-planning effort |
+| 💻 Interactive UI | Simple and user-friendly interface |
+
+### 🛠️ Tech Stack
+
+`React` `Node.js` `Express.js` `MongoDB` `OpenAI API`
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/Manishkumar9525/CareerPath-AI">
+<img src="https://img.shields.io/badge/🔗_VIEW_SOURCE_CODE-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<!-- ===================== CIVIX ===================== -->
+
+## 🏛️ Civix
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Full--Stack_Project-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN-Stack-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-Authentication-F59E0B?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+> **A platform for reporting and managing civic issues**
+
+Civix is a full-stack civic issue reporting platform where
+citizens can report problems in their local area and provide
+information that can help authorities understand and manage
+those issues.
+
+### 🎯 Problem
+
+Citizens often face difficulties when reporting local problems
+such as:
+
+- Road damage
+- Garbage and sanitation issues
+- Public infrastructure problems
+- Other civic complaints
+
+### 💡 Solution
+
+Civix provides a centralized platform where users can **report,
+track and manage civic issues** through a web application.
+
+### ⚙️ Key Features
+
+| Feature | Description |
+|---|---|
+| 👤 Authentication | Secure user registration & login |
+| 🔐 JWT Security | Token-based authentication |
+| 📝 Issue Reporting | Users can submit civic problems |
+| 🖼️ Image Support | Add images to explain issues clearly |
+| 🗄️ MongoDB | Store users and issue data |
+| 🔄 REST APIs | Backend communication through APIs |
+| 🛡️ Protected Routes | Restrict authenticated functionality |
+
+### 🛠️ Tech Stack
+
+`React` `Node.js` `Express.js` `MongoDB` `JWT`
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/Manishkumar9525">
+<img src="https://img.shields.io/badge/🔗_VIEW_SOURCE_CODE-10B981?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<!-- ===================== AQUAVEDA ===================== -->
+
+## 💧 AquaVeda
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Sustainability-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Water_Conservation-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web_Project-6366F1?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+> **Water conservation & sustainability awareness platform**
+
+AquaVeda is a knowledge-focused platform created to spread
+awareness about **water conservation, sustainable practices,
+and responsible water usage**.
+
+### 🎯 Problem
+
+Water conservation is an important environmental challenge,
+but useful information is often scattered across different
+sources.
+
+### 💡 Solution
+
+AquaVeda brings useful information about water conservation and
+sustainable solutions into one accessible platform.
+
+### ⚙️ Key Features
+
+| Feature | Description |
+|---|---|
+| 💧 Water Awareness | Information about water conservation |
+| 📚 Knowledge Hub | Organized educational content |
+| 🌱 Sustainability | Focus on sustainable solutions |
+| 🔎 Easy Navigation | Simple information discovery |
+| 🌍 Environmental Focus | Promotes responsible water usage |
+
+### 🛠️ Tech Stack
+
+`HTML` `CSS` `JavaScript`
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/Manishkumar9525/Water-Wiki">
+<img src="https://img.shields.io/badge/🔗_VIEW_SOURCE_CODE-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<!-- ===================== PROJECT PHILOSOPHY ===================== -->
+
+<div align="center">
+
+### 💭 What I Learn From Building
+
+**Every project is more than code.**
+
+🧠 Learn → 🛠️ Build → 🐛 Debug → 📈 Improve → 🚀 Ship
+
+</div>
 <!-- ===================== DSA JOURNEY ===================== -->
 🧠 My DSA Journey
 

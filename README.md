@@ -1,361 +1,211 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ========================================================= -->
+<!--                    MANISH KUMAR README                    -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:4f46e5&height=230&section=header&text=Manish%20Kumar&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20AI%20%7C%20DSA&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+<!-- Animated Header -->
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:7c3aed&height=220&section=header&text=Manish%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20AI%20%7C%20DSA&descAlignY=60&descSize=19&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;AI+Application+Builder+%F0%9F%A4%96;DSA+Enthusiast+%F0%9F%A7%A0;Always+Building+%26+Learning+%E2%9C%A8" />
+<br>
 
-<br/>
+<!-- Typing Animation -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;AI+Application+Builder+%F0%9F%A4%96;DSA+Enthusiast+%F0%9F%A7%A0;Always+Building+%26+Learning+%E2%9C%A8" />
+
+<br><br>
+
+<!-- Social Links -->
 
 <a href="https://github.com/Manishkumar9525">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/manish-kumar-b7487a376">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:manish62073kumar@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Manishkumar9525&label=Profile%20Views&color=6366f1&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Manishkumar9525&label=Profile%20Views&color=7c3aed&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
+<!-- ========================================================= -->
+<!--                         ABOUT ME                           -->
+<!-- ========================================================= -->
 
-## 👨‍💻 About Me
+## 👨‍💻 ABOUT ME
 
+<p align="center">
+  <i><b>A developer who loves turning ideas into things people can actually use.</b></i>
+</p>
 
-I'm Manish Kumar, a Full-Stack Developer passionate about
-building practical and impactful web applications.
+<br>
 
-🚀 Building        → Full-Stack & AI-powered applications
-💻 Focus           → MERN Stack & Backend Development
-🧠 Problem Solving → DSA with C++
-🤖 Exploring       → AI & intelligent applications
-🎯 Goal            → Become a strong Software Engineer
+I'm **Manish Kumar**, an IT graduate passionate about building meaningful software and continuously improving as a developer.
 
-I'm interested in turning ideas into real-world applications
-while continuously improving my problem-solving and
-software development skills.
+What started with a simple:
 
-<!-- ===================== TECH STACK ===================== -->
-🛠️ Tech Arsenal
+javascript
+console.log("Hello World 🚀");
+
+slowly turned into building full-stack applications, exploring AI-powered systems, solving DSA problems, and participating in Smart India Hackathon 2024.
+
+✨ A little about me
+🚀 Building full-stack applications and AI-powered projects
+💻 Working with the MERN Stack
+🧠 Started my DSA journey with C++
+🤖 Exploring practical AI applications
+⚙️ Currently strengthening Backend Development
+🎯 Preparing for Software Development Engineer opportunities
+⚡ Believing that consistency beats motivation
+💬 Ask me about React, Node.js, MongoDB, C++, JavaScript, or AI projects
+📫 Reach me at manish62073kumar@gmail.com
+<!-- ========================================================= --> <!-- TECH STACK --> <!-- ========================================================= -->
+🛠️ TECH STACK
+<p align="center"> <i>Technologies and tools I use to build my projects.</i> </p> <br>
 🎨 Frontend
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /> </p>
 ⚙️ Backend & Database
 <p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> </p>
-🧠 Programming & Tools
-<p> <img src="https://skillicons.dev/icons?i=cpp,python,c,git,github,vscode" /> </p>
-<!-- ===================== FEATURED PROJECTS ===================== -->
+🧠 Programming Languages
+<p> <img src="https://skillicons.dev/icons?i=cpp,python,c" /> </p>
+🔧 Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
+<!-- ========================================================= --> <!-- FEATURED PROJECTS --> <!-- ========================================================= -->
+🚀 FEATURED PROJECTS
+<p align="center"> <i>A collection of projects where I turned ideas into working applications.</i> </p> <br> <table> <tr> <!-- ===================== CAREERPATH AI ===================== --> <td width="50%" valign="top"> <h3>🧠 CareerPath AI</h3> <hr> <p> <b>AI-Powered Career Roadmap Platform</b> </p> <p> A full-stack platform that helps students and professionals generate personalized, AI-driven career roadmaps based on their career goals and learning requirements. </p>
+✨ Features
+🤖 AI Career Roadmap Generation
+🎯 Personalized Learning Paths
+📚 Learning Resources
+🔐 User Authentication
+📊 Profile & Progress
+💬 AI Assistant
+⚡ Structured Career Guidance
+🛠️ Tech Stack
 
-# 🚀 Featured Projects
+React Node.js Express.js MongoDB OpenAI API
 
-<div align="center">
+<br> <a href="https://github.com/Manishkumar9525/CareerPath-AI"> <img src="https://img.shields.io/badge/◉%20SOURCE%20CODE-18181B?style=flat-square&logo=github&logoColor=white"/> </a> </td> <!-- ========================= CIVIX ======================== --> <td width="50%" valign="top"> <h3>🏛️ Civix</h3> <hr> <p> <b>Civic Issue Reporting Platform</b> </p> <p> A full-stack platform designed to help citizens report civic problems and provide structured information that can help manage local issues. </p>
+✨ Features
+👤 User Registration & Login
+🔐 JWT Authentication
+📝 Civic Issue Reporting
+🖼️ Image Support
+🔄 REST APIs
+🛡️ Protected Routes
+🗄️ MongoDB Data Management
+🛠️ Tech Stack
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Projects+I've+Built+%F0%9F%9A%80;Ideas+%E2%86%92+Code+%E2%86%92+Real-World+Solutions+%E2%9C%A8" />
+React Node.js Express.js MongoDB JWT
 
+<br> <a href="YOUR_CIVIX_REPO_LINK"> <img src="https://img.shields.io/badge/◉%20SOURCE%20CODE-18181B?style=flat-square&logo=github&logoColor=white"/> </a> </td> </tr> <tr> <!-- ======================== AQUAVEDA ======================= --> <td width="50%" valign="top"> <h3>💧 AquaVeda</h3> <hr> <p> <b>Water Conservation & Sustainability Platform</b> </p> <p> A knowledge-based platform focused on spreading awareness about water conservation, sustainable practices and responsible water usage. </p>
+✨ Features
+💧 Water Conservation Awareness
+📚 Knowledge Hub
+🌱 Sustainable Solutions
+🔎 Easy Information Discovery
+🌍 Environmental Awareness
+📖 Educational Content
+🛠️ Tech Stack
+
+HTML CSS JavaScript
+
+<br> <a href="https://github.com/Manishkumar9525/Water-Wiki"> <img src="https://img.shields.io/badge/◉%20SOURCE%20CODE-18181B?style=flat-square&logo=github&logoColor=white"/> </a> </td> <!-- ===================== COMING SOON ====================== --> <td width="50%" valign="top"> <h3>🚧 More Coming Soon...</h3> <hr> <p> <b>Always Building & Experimenting</b> </p> <p> I'm continuously working on new projects to improve my development skills, explore new technologies and solve practical problems. </p>
+💡 My Building Process
+💡 Idea
+   ↓
+📝 Plan
+   ↓
+🛠️ Build
+   ↓
+🐛 Debug
+   ↓
+📈 Improve
+   ↓
+🚀 Ship
+🎯 What's Next?
+🤖 More AI-powered applications
+⚙️ Advanced backend projects
+🧠 DSA problem solving
+🌐 Open-source contributions
+</td> </tr> </table>
+<!-- ========================================================= --> <!-- DSA JOURNEY --> <!-- ========================================================= -->
+🧠 DSA JOURNEY
+<p align="center"> <i>Learning to solve problems, not just memorize solutions.</i> </p> <br>
+
+🚀 I started my DSA journey with C++ to improve my
+problem-solving skills and build a stronger foundation for
+technical interviews.
+
+<table> <tr> <th>🧩 Topic</th> <th>🎯 Current Focus</th> </tr> <tr> <td>🟢 Arrays & Strings</td> <td>Building strong fundamentals</td> </tr> <tr> <td>🟢 Searching & Sorting</td> <td>Understanding efficient approaches</td> </tr> <tr> <td>🟡 Linked List</td> <td>Learning common patterns and operations</td> </tr> <tr> <td>🟡 Stack & Queue</td> <td>Practicing implementation and problems</td> </tr> <tr> <td>🟡 Recursion</td> <td>Improving logical thinking</td> </tr> <tr> <td>🔵 Trees & Graphs</td> <td>Learning traversal and problem-solving patterns</td> </tr> <tr> <td>🔵 Dynamic Programming</td> <td>Future learning focus</td> </tr> </table> <br> <div align="center">
+🧠 Learn
+   ↓
+💻 Practice
+   ↓
+🐛 Make Mistakes
+   ↓
+🔍 Understand
+   ↓
+📈 Improve
+   ↓
+🎯 Solve Better
 </div>
-
-<br/>
-
-<!-- ===================== CAREERPATH AI ===================== -->
-
-## 🧠 CareerPath AI
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/⭐_Featured_Project-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-Powered-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MERN-Stack-10B981?style=for-the-badge"/>
-
-</div>
-
-<br/>
-
-> **AI-powered personalized career roadmap generator**
-
-CareerPath AI helps students and professionals create a
-personalized learning roadmap based on their **career goal,
-current skills, and learning requirements**.
-
-### 🎯 Problem
-
-Many learners struggle with questions like:
-
-- What should I learn first?
-- Which technologies are required for my target role?
-- What should I learn after completing a particular skill?
-- Which resources should I use?
-
-### 💡 Solution
-
-CareerPath AI uses AI to transform a user's career goal into a
-**structured, step-by-step roadmap** with relevant learning
-resources.
-
-### ⚙️ Key Features
-
-| Feature | Description |
-|---|---|
-| 🤖 AI Roadmap | Generates personalized career roadmaps |
-| 🎯 Career Based | Roadmap is based on the user's target career |
-| 📚 Resources | Provides relevant learning resources |
-| 🗺️ Structured Path | Organizes learning into logical stages |
-| ⚡ Fast Planning | Reduces manual career-planning effort |
-| 💻 Interactive UI | Simple and user-friendly interface |
-
-### 🛠️ Tech Stack
-
-`React` `Node.js` `Express.js` `MongoDB` `OpenAI API`
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/Manishkumar9525/CareerPath-AI">
-<img src="https://img.shields.io/badge/🔗_VIEW_SOURCE_CODE-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<!-- ===================== CIVIX ===================== -->
-
-## 🏛️ Civix
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Full--Stack_Project-10B981?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MERN-Stack-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-Authentication-F59E0B?style=for-the-badge"/>
-
-</div>
-
-<br/>
-
-> **A platform for reporting and managing civic issues**
-
-Civix is a full-stack civic issue reporting platform where
-citizens can report problems in their local area and provide
-information that can help authorities understand and manage
-those issues.
-
-### 🎯 Problem
-
-Citizens often face difficulties when reporting local problems
-such as:
-
-- Road damage
-- Garbage and sanitation issues
-- Public infrastructure problems
-- Other civic complaints
-
-### 💡 Solution
-
-Civix provides a centralized platform where users can **report,
-track and manage civic issues** through a web application.
-
-### ⚙️ Key Features
-
-| Feature | Description |
-|---|---|
-| 👤 Authentication | Secure user registration & login |
-| 🔐 JWT Security | Token-based authentication |
-| 📝 Issue Reporting | Users can submit civic problems |
-| 🖼️ Image Support | Add images to explain issues clearly |
-| 🗄️ MongoDB | Store users and issue data |
-| 🔄 REST APIs | Backend communication through APIs |
-| 🛡️ Protected Routes | Restrict authenticated functionality |
-
-### 🛠️ Tech Stack
-
-`React` `Node.js` `Express.js` `MongoDB` `JWT`
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/Manishkumar9525">
-<img src="https://img.shields.io/badge/🔗_VIEW_SOURCE_CODE-10B981?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<!-- ===================== AQUAVEDA ===================== -->
-
-## 💧 AquaVeda
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Sustainability-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Water_Conservation-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web_Project-6366F1?style=for-the-badge"/>
-
-</div>
-
-<br/>
-
-> **Water conservation & sustainability awareness platform**
-
-AquaVeda is a knowledge-focused platform created to spread
-awareness about **water conservation, sustainable practices,
-and responsible water usage**.
-
-### 🎯 Problem
-
-Water conservation is an important environmental challenge,
-but useful information is often scattered across different
-sources.
-
-### 💡 Solution
-
-AquaVeda brings useful information about water conservation and
-sustainable solutions into one accessible platform.
-
-### ⚙️ Key Features
-
-| Feature | Description |
-|---|---|
-| 💧 Water Awareness | Information about water conservation |
-| 📚 Knowledge Hub | Organized educational content |
-| 🌱 Sustainability | Focus on sustainable solutions |
-| 🔎 Easy Navigation | Simple information discovery |
-| 🌍 Environmental Focus | Promotes responsible water usage |
-
-### 🛠️ Tech Stack
-
-`HTML` `CSS` `JavaScript`
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/Manishkumar9525/Water-Wiki">
-<img src="https://img.shields.io/badge/🔗_VIEW_SOURCE_CODE-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<!-- ===================== PROJECT PHILOSOPHY ===================== -->
-
-<div align="center">
-
-### 💭 What I Learn From Building
-
-**Every project is more than code.**
-
-🧠 Learn → 🛠️ Build → 🐛 Debug → 📈 Improve → 🚀 Ship
-
-</div>
-
-
-
-
-<!-- ===================== DSA JOURNEY ===================== -->
-🧠 My DSA Journey
-
-Started with C++ → Learning the fundamentals → Solving problems → Becoming a better problem solver
-
-<div align="center">
-                    🧠 DSA JOURNEY
-
-                         C++
-                          │
-                          ▼
-                 Arrays & Strings
-                          │
-                          ▼
-                Searching & Sorting
-                          │
-                          ▼
-                  Linked Lists
-                          │
-                          ▼
-                  Stack & Queue
-                          │
-                          ▼
-                     Recursion
-                          │
-                          ▼
-                 Trees & Graphs
-                          │
-                          ▼
-             Dynamic Programming
-                          │
-                          ▼
-                  🎯 Interview Ready
-</div>
-📚 Currently Focusing On
-🟢 Fundamentals
-   ├── Arrays
-   ├── Strings
-   ├── Searching
-   └── Sorting
-
-🟡 Data Structures
-   ├── Linked List
-   ├── Stack
-   ├── Queue
-   ├── Trees
-   └── Graphs
-
-🔵 Problem Solving
-   ├── Recursion
-   ├── Time Complexity
-   ├── Space Complexity
-   └── Dynamic Programming
-
-💡 My goal isn't just to memorize solutions.
-It's to understand how to approach and solve problems.
-
-<!-- ===================== GITHUB STATS ===================== -->
-📊 GitHub Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Manishkumar9525&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manishkumar9525&theme=tokyonight&hide_border=true&border_radius=15" height="180"/> </div> <br/> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manishkumar9525&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="170"/> </div>
-<!-- ===================== CONTRIBUTION ===================== -->
-🐍 My Contribution Journey
-<div align="center"> <img src="https://raw.githubusercontent.com/Manishkumar9525/Manishkumar9525/output/github-contribution-grid-snake.svg" width="100%"/> </div>
-<!-- ===================== GOALS ===================== -->
-🎯 2026 Goals
-☑ Build real-world full-stack projects
-☑ Build AI-powered applications
-☑ Strengthen MERN backend development
-🔄 Improve DSA & problem solving
-🔄 Contribute to open source
-🔄 Learn advanced backend concepts
-🎯 Crack software engineering interviews
-<!-- ===================== CURRENTLY LEARNING ===================== -->
-🌱 Currently Learning
-<div align="center"> <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-APIs-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/DSA-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/AI-Projects-8B5CF6?style=for-the-badge"/> </div>
-<!-- ===================== CONNECT ===================== -->
-🌐 Let's Connect
-<div align="center"> <a href="mailto:manish62073kumar@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/manish-kumar-b7487a376"> <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Manishkumar9525"> <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
-<!-- ===================== FOOTER ===================== --> <div align="center">
-💭 Developer's Note
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Build+%7C+Break+%7C+Learn+%7C+Repeat+%F0%9F%9A%80;Keep+Learning.+Keep+Building.+%E2%9C%A8;One+Problem+at+a+Time+%F0%9F%A7%A0" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:312e81,100:0f172a&height=120&section=footer"/> </div> ```
-
----
-
-## ✨ Fun Quote  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+<!-- ========================================================= --> <!-- CURRENT FOCUS --> <!-- ========================================================= -->
+🎯 CURRENT FOCUS
+<p align="center"> <i>What I'm actively working on right now.</i> </p> <br> <table> <tr> <th>🎯 Focus Area</th> <th>🚀 Current Goal</th> </tr> <tr> <td>🧠 DSA</td> <td>Solving problems consistently and improving problem-solving patterns</td> </tr> <tr> <td>💻 Full-Stack Development</td> <td>Building complete applications using the MERN stack</td> </tr> <tr> <td>⚙️ Backend Development</td> <td>Strengthening Node.js, Express.js and REST APIs</td> </tr> <tr> <td>🤖 AI Exploration</td> <td>Learning how AI can solve practical real-world problems</td> </tr> <tr> <td>🎯 Interview Preparation</td> <td>Improving projects, technical concepts and problem-solving</td> </tr> <tr> <td>📚 Consistency</td> <td>Learning and improving a little every day</td> </tr> </table>
+<!-- ========================================================= --> <!-- HIGHLIGHTS --> <!-- ========================================================= -->
+🏆 HIGHLIGHTS
+<table> <tr> <td width="50%" align="center">
+🥇 Smart India Hackathon 2024
+
+Participated in Smart India Hackathon 2024
+and represented my team at the final stage.
+
+</td> <td width="50%" align="center">
+💻 Build. Break. Debug.
+
+I learn best by building projects,
+making mistakes, debugging them,
+and improving continuously.
+
+</td> </tr> </table>
+<!-- ========================================================= --> <!-- GITHUB STATS --> <!-- ========================================================= -->
+📊 GITHUB STATISTICS
+<p align="center"> <i>A snapshot of my coding journey 🚀</i> </p> <br>
+🔥 CONTRIBUTION STREAK
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manishkumar9525&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=F97316&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=8B949E"/> </p> <br>
+📈 GITHUB PROFILE SUMMARY
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Manishkumar9525&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&include_all_commits=true&count_private=true"/> </p> <br>
+💻 MOST USED LANGUAGES
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manishkumar9525&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"/> </p>
+<!-- ========================================================= --> <!-- CONTRIBUTION GRAPH --> <!-- ========================================================= -->
+📈 CONTRIBUTION ACTIVITY
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manishkumar9525&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="95%"/> </p>
+<!-- ========================================================= --> <!-- GOALS --> <!-- ========================================================= -->
+🎯 2026 GOALS
+<table> <tr> <th>Status</th> <th>Goal</th> </tr> <tr> <td>✅</td> <td>Build real-world full-stack projects</td> </tr> <tr> <td>✅</td> <td>Build AI-powered applications</td> </tr> <tr> <td>🔄</td> <td>Strengthen MERN backend development</td> </tr> <tr> <td>🔄</td> <td>Improve DSA & problem-solving skills</td> </tr> <tr> <td>🔄</td> <td>Contribute to open source</td> </tr> <tr> <td>🔄</td> <td>Learn advanced backend concepts</td> </tr> <tr> <td>🎯</td> <td>Crack Software Development Engineer opportunities</td> </tr> </table>
+<!-- ========================================================= --> <!-- CURRENTLY LEARNING --> <!-- ========================================================= -->
+🌱 CURRENTLY LEARNING
+<p align="center"> <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-REST%20APIs-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/DSA-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/AI-Projects-8B5CF6?style=for-the-badge"/> </p>
+<!-- ========================================================= --> <!-- CONNECT --> <!-- ========================================================= -->
+🌐 LET'S CONNECT
+<p align="center"> <i>Have an interesting idea, opportunity or just want to connect?</i> </p> <br> <div align="center"> <a href="mailto:manish62073kumar@gmail.com"> <img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-EA4335?style=for-the-badge"/> </a> <a href="https://linkedin.com/in/manish-kumar-b7487a376"> <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge"/> </a> <a href="https://github.com/Manishkumar9525"> <img src="https://img.shields.io/badge/🐙%20GitHub-Follow-18181B?style=for-the-badge"/> </a> </div>
+<!-- ========================================================= --> <!-- FOOTER --> <!-- ========================================================= --> <div align="center"> <br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Build+%7C+Break+%7C+Learn+%7C+Repeat+%F0%9F%9A%80;Keep+Learning.+Keep+Building.+%E2%9C%A8;One+Problem+at+a+Time+%F0%9F%A7%A0" />
+
+<br><br>
+
+⭐ <b>Thanks for visiting my profile!</b> ⭐
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:0d1117&height=120&section=footer" width="100%"/> </div> ```

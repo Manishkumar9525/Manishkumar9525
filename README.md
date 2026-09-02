@@ -263,17 +263,7 @@ sustainable solutions into one accessible platform.
 
 </div>
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
 
-# 🚀 Featured Projects
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Projects+I've+Built+%F0%9F%9A%80;Ideas+%E2%86%92+Code+%E2%86%92+Real-World+Solutions+%E2%9C%A8" />
-
-</div>
-
-<br/>
 
 <!-- ===================== CAREERPATH AI ===================== -->
 

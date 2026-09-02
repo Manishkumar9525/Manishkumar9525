@@ -179,15 +179,7 @@ making mistakes, debugging them,
 and improving continuously.
 
 </td> </tr> </table>
-<!-- ========================================================= --> <!-- GITHUB STATS --> <!-- ========================================================= -->
-📊 GITHUB STATISTICS
-<p align="center"> <i>A snapshot of my coding journey 🚀</i> </p> <br>
-🔥 CONTRIBUTION STREAK
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manishkumar9525&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=F97316&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=8B949E"/> </p> <br>
-📈 GITHUB PROFILE SUMMARY
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Manishkumar9525&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&include_all_commits=true&count_private=true"/> </p> <br>
-💻 MOST USED LANGUAGES
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manishkumar9525&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"/> </p>
+
 <!-- ========================================================= --> <!-- CONTRIBUTION GRAPH --> <!-- ========================================================= -->
 📈 CONTRIBUTION ACTIVITY
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manishkumar9525&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="95%"/> </p>

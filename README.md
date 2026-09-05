@@ -79,7 +79,7 @@ slowly turned into building full-stack applications, exploring AI-powered system
 🧠 Programming Languages
 <p> <img src="https://skillicons.dev/icons?i=cpp,python,c" /> </p>
 🔧 Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyterlab" /> </p>
 <!-- ========================================================= --> <!-- FEATURED PROJECTS --> <!-- ========================================================= -->
 🚀 FEATURED PROJECTS
 <p align="center"> <i>A collection of projects where I turned ideas into working applications.</i> </p> <br> <table> <tr> <!-- ===================== CAREERPATH AI ===================== --> <td width="50%" valign="top"> <h3>🧠 CareerPath AI</h3> <hr> <p> <b>AI-Powered Career Roadmap Platform</b> </p> <p> A full-stack platform that helps students and professionals generate personalized, AI-driven career roadmaps based on their career goals and learning requirements. </p>

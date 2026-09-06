@@ -71,15 +71,33 @@ slowly turned into building full-stack applications, exploring AI-powered system
 📫 Reach me at manish62073kumar@gmail.com
 <!-- ========================================================= --> <!-- TECH STACK --> <!-- ========================================================= -->
 🛠️ TECH STACK
-<p align="center"> <i>Technologies and tools I use to build my projects.</i> </p> <br>
+
+<p align="center">
+  <i>Technologies and tools I use to build my projects.</i>
+</p>
+
+<br>
+
 🎨 Frontend
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
 ⚙️ Backend & Database
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
 🧠 Programming Languages
-<p> <img src="https://skillicons.dev/icons?i=cpp,python,c" /> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,c" />
+</p>
+
 🔧 Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyterlab" /> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://raw.githubusercontent.com/jupyter/notebook/main/docs/source/images/jupyter.svg" width="48" />
+</p>
 <!-- ========================================================= --> <!-- FEATURED PROJECTS --> <!-- ========================================================= -->
 🚀 FEATURED PROJECTS
 <p align="center"> <i>A collection of projects where I turned ideas into working applications.</i> </p> <br> <table> <tr> <!-- ===================== CAREERPATH AI ===================== --> <td width="50%" valign="top"> <h3>🧠 CareerPath AI</h3> <hr> <p> <b>AI-Powered Career Roadmap Platform</b> </p> <p> A full-stack platform that helps students and professionals generate personalized, AI-driven career roadmaps based on their career goals and learning requirements. </p>

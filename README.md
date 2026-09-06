@@ -96,7 +96,7 @@ slowly turned into building full-stack applications, exploring AI-powered system
 🔧 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://raw.githubusercontent.com/jupyter/notebook/main/docs/source/images/jupyter.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" />
 </p>
 <!-- ========================================================= --> <!-- FEATURED PROJECTS --> <!-- ========================================================= -->
 🚀 FEATURED PROJECTS
